@@ -1,0 +1,15 @@
+{
+  "name": "testName_placeNewOrder",
+  "buyer": "testBuyer_placeNewOrder",
+  "is_paid": false,
+  "products": [
+    {
+      "title": "Flower",
+      "seller": "Ruslana",
+      "price": 50.0,
+      "quantity": 100,
+      "description": "TestProductDescription",
+      "categories": ["HOME"]
+    }
+  ]
+}

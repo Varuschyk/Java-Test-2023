@@ -1,5 +1,15 @@
 # Test Java 2023
 
+## If project occurred compile error
+```
+First in all after project clone, in e2e module may
+java directory be not marked as `Test root directory`, 
+and resources too.
+Second that may be, it output module path problem,
+to fix that, go to `Project Structure` in `Compiler output`
+specify the following: "~\IdeaProjects\testOverviewApplication\out"
+```
+
 ## Security - Manager/Client
 ```
 Unfortunately, I was partially unable to 
